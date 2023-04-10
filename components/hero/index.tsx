@@ -123,7 +123,7 @@ export const Hero = () => {
             <Box
                css={{
                   '& img': {
-                     width: '775px',
+                     width: '225px',
                      objectFit: 'contain',
                   },
                }}
