@@ -125,6 +125,7 @@ export const Hero = () => {
                   '& img': {
                      width: '500px',
                      objectFit: 'contain',
+                     marginLeft: '100px',
                   },
                }}
             >
